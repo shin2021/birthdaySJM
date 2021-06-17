@@ -31,7 +31,7 @@ body{
 .main-message{
     font-family: 'Slackey', sans-serif;
     
-    font-size: 64px;
+    font-size: 48px;
     font-weight: 700;
     color:rgba(188, 143, 255, 1);
     margin-bottom: 10px;
@@ -39,7 +39,7 @@ body{
 }
 .main-message2{
     font-family: 'Poor Story', cursive;
-    font-size: 71px;
+    font-size: 48px;
     font-weight: 700;
     color:rgba(255, 143, 162, 1);
 }
@@ -61,7 +61,7 @@ body{
     animation:moveEmoji 2s linear infinite;
 }
 img{
-    padding:50px;
+    padding-top:100px;
     width:50vw;
     height: 70vh;
     border-radius: 30px;
